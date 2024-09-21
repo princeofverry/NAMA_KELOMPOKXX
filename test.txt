@@ -1,3 +1,18 @@
 [Selamat Datang di Praktikum PROGDAS] \n
 
-rev-2
+TP progdas modul 4!!!
+
+1. Apa yang dimaksud dengan function dan method?
+2. Jelaskan secara singkat perbedaan function dan method!
+3. Jelaskan secara singkat 2 tipe function!
+4. Jelaskan penggunaan git untuk programmer!
+5. Buatkan fungsi yang mengembalikan bilangan genap!
+6. Infokan tempat makan enak di temcy!
+
+
+TP ditulis di kertas berkop, ditulis tangan dengan bolpoin berwarna biru, scan, dan kumpulkan di folder pengumpulan TP.
+[TP dikerjakan individu dan dikumpulkan secara berkelompok!]
+deadline: Senin, 23 September 2024 jam 07.04 pagi
+format nama file: Kelompokxx_Shiftxx
+
+Semangat gusy!
